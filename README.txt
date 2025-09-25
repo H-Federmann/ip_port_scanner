@@ -124,5 +124,5 @@ Concept & Code  : H. Federmann
 Design          : Retro Release-Info Style  
 
 =======================================================================================
-🚀 H.Federmann’s IP & Port Scanner — Scan Smart & Scan Responsible  
+🚀 H.Federmann’s IP & Port Scanner — Scan Smart & Scan Responsible    
 =======================================================================================
