@@ -1,3 +1,6 @@
+![Demo GIF](docs/demo.gif)
+
+```text
 =======================================================================================
                   ╔══════════════════════════════════════════╗                 
                   ║                                          ║                 
@@ -45,8 +48,6 @@ A little visual flourish — a tiny retro "network / progress" badge:
        \       |       /            
         \      |      /             <- Network Links  
          `-.___|__.-'                <- HF Release
-
-![Demo GIF](docs/demo.gif)  
 
    /\_/\       <- Cat Mascot  
   ( o.o )     
