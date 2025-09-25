@@ -1,0 +1,6 @@
+# Minimal dependencies. Tkinter is part of the Python standard library (but may require OS package).
+# If your system lacks tkinter, install the OS package. Example (Debian/Ubuntu): python3-tk
+# No external pip packages required for core functionality.
+
+# For completeness (not an actual pip package on many systems), list 'tk' as a hint:
+tk
